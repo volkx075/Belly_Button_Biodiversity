@@ -10,3 +10,5 @@ https://volkx075.github.io/Belly_Button_Biodiversity/
 ![Charts file](charts.js)
 ### JSON File
 ![Data](samples.json)
+## Image Citation
+https://www.wired.co.uk/article/navel-gazing-has-its-benefits
