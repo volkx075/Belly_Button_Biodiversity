@@ -11,4 +11,4 @@ https://volkx075.github.io/Belly_Button_Biodiversity/
 ### JSON File
 ![Data](samples.json)
 ## Image Citation
-Ghorayshi, A. (2014, November 10). Dataset reveals multiple bacteria types live in our navels. WIRED UK. Retrieved September 26, 2021, from https://www.wired.co.uk/article/navel-gazing-has-its-benefits. 
+Ghorayshi, A. (2014, November 10). Dataset reveals multiple bacteria types live in our navels. WIRED UK. Retrieved September 25, 2021, from https://www.wired.co.uk/article/navel-gazing-has-its-benefits. 
